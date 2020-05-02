@@ -3,7 +3,7 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Hello World Release! New Commit in Dev. New commit in Master. Just for DEMO</h1>
+	<h1>Hello World Release! New Commit in Dev. New commit in Master. Just for DEMO. Hotfix</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
