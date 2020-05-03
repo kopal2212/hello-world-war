@@ -2,11 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.efsavage</groupId>
 	<artifactId>hello-world-war</artifactId>
-<<<<<<< HEAD
-	<version>1.18-SNAPSHOT</version>
-=======
 	<version>1.19-SNAPSHOT</version>
->>>>>>> 8b918300dff27ddc4637a746a008f817589d4cdd
 	<packaging>war</packaging>
 	<name>Hello World Web Application Repository</name>
 	<description>Simplest possible Java Webapp</description>
